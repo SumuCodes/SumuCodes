@@ -48,10 +48,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumuCodes&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumuCodes&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumuCodes&layout=compact&theme=github_dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumuCodes&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🔥 Contribution Streak
@@ -62,7 +61,9 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 AI Lecture Recorder *(Coming Soon)*
+### 🎓 AI Lecture Recorder
+
+🚧 Repository coming soon.
 AI-powered learning assistant that converts YouTube lectures into searchable notes and transcript-based Q&A.
 
 ### 🛒 AI Shopping Assistant *(Coming Soon)*
@@ -71,8 +72,7 @@ Conversational shopping assistant built using Flowise AI and OpenRouter API for 
 ### 📚 Learn-with-Me Flashcard App
 AI-powered Streamlit application that converts PDF notes into flashcards and quizzes.
 
-🔗 **Repository:** https://github.com/SumuCodes/AI-Flashcard-App
-
+🔗 **Repository:** [AI Flashcard App](https://github.com/SumuCodes/AI-Flashcard-App)
 ---
 
 ## 🌱 Currently Learning
